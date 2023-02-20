@@ -1,8 +1,8 @@
 = README
 
 == Introduction
-This is the repository for the Coffee Maker iTC. 
+This is a repository for the HCD iTC. 
 
-Provide a simple message about what the iTC is doing here (i.e. if you have multiple repositories, state what you are doing in each one of them). 
+This is the working branch for the HCD Interpretation Team 
 
-Check out the main page for the iTC at <GITHUB.IO site here>.
+Check out the main page for the HCD iTC at <GITHUB.IO site here>.
