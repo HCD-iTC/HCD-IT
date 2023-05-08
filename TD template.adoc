@@ -1,33 +1,41 @@
+// The Number and Title for the TD should be the number and title of the GitHub Issue that was generated for this problem, question, etc. that resulted
+// in this TD being generated
 = DSC0001 - Additional Workload Options in FCS_COP.1/PBKDF
 :showtitle:
 :imagesdir: images
 :icons: font
 :revnumber: 1
+// revdate should be the date of the revision of this version of the TD
 :revdate: 2022-12-16
 :linkattrs:
 
-:iTC-longname: Dedicated Security Components
-:iTC-shortname: DSC-iTC
-:iTC-email: iTC-DSC@niap-ccevs.org
-:iTC-website: https://DSC-iTC.github.io/
-:iTC-GitHub: https://github.com/DSC-iTC/cPP/
+:iTC-longname: Hardcopy Device
+:iTC-shortname: HCD-iTC
+:iTC-email: iTC-HCD@niap-ccevs.org
+:iTC-website: https://hcd-iTC.github.io/
+// Provide the link here to either the HCD cPP and/or the HCD SD as applicable
+:iTC-GitHub: https://github.com/HCD-iTC/cPP/
 
 Published: {revdate}
 
 == Impacted Documents
-link:/v1/1.0/cpp_dsc_v1.pdf[CPP_DSC_v1.0]
+link:https://hcd-itc.github.io/cPP/cPP_HCD_V1.0.pdf
 
-link:/v1/1.0/cpp_dsc_sd_v1.pdf[SD_DSC_v1.0]
+link:https://hcd-itc.github.io/SD/SD_HCD_V1.0.pdf
 
+// Reference the applicable HCD cPP SFR(s) / SARs or HCD SD Assurace Activities that this TD pertains to
 == References
 FCS_COP.1/PBKDF
 
+// Provide the issue description extracted from the Issue that was generated for this problem, question, etc. that resulted in this TD being generated
 == Issue Description
 The FCS_COP.1/PBKDF requirement provides only a single method for ensuring the workload necessary to by requiring at least 1000 iterations of a PBKDF function. There are additional methods for ensuring a sufficient workload equivalent to the 1000 PBKDF iterations that should be allowed.
 
+// Provide the resolution agreed upon by the HIT for this Issue
 == Resolution
 The FCS_COP.1/PBKDF requirement mandates a specific implementation to thwart brute force attacks on the DSC. As there are many different approaches that can be used to thwart such attacks, the cPP and SD will be updated to be less prescriptive in the implementation details while providing equivalent strength in terms of the workload required.
 
+// Provide below each specific change that is to be made to the HCD cPP nad/or HCD SD by Section number, paragraph and line to resolve this issue
 === CPP_DSC_v1.0
 FCS_COP.1/PBKDF is modified as follows (yellow highlights for additions, strikethrough for deletions):
 
