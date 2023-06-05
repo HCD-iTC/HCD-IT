@@ -1,8 +1,8 @@
 = README
 
 == Introduction
-This is a repository for the HCD iTC. 
+This is a repository for the HCD Interpretation Team (HIT). 
 
-This is the working branch for the HCD Interpretation Team 
+This is the Interpretation branch for the HIT. This is the branch where the changes aproved by the HIT via TDs are placed for eventual inclusion in a new v1.0 release
 
 Check out the main page for the HCD iTC at <GITHUB.IO site here>.
