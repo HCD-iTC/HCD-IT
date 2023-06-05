@@ -1,7 +1,7 @@
 = README
 
 == Introduction
-This is a repository for the HCD iTC. 
+This is a repository for the HCD Interpretation Team (HIT). 
 
 This is the working branch for the HCD Interpretation Team 
 
