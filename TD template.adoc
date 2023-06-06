@@ -42,5 +42,5 @@ The specific change(s) by Document, Section number, paragraph and linethat is to
 
 //Include a pointer to the file that contains the actual fix for this TD
 == File Reference
-A pointer to the file thta contains the fix would be inserted here
+A pointer to the file that contains the fix would be inserted here
 
