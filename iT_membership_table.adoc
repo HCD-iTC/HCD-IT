@@ -1,4 +1,4 @@
-= Coffee Maker Interpretation Team (CMIT) Membership <DATE>
+= Hardcopy Device Interpretation Team (HIT) Membership <Jun 15, 2023>
 :showtitle:
 :table-caption: Table
 :revnumber: 0.3
