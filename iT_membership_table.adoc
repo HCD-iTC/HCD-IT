@@ -4,12 +4,12 @@
 :revnumber: 0.3
 :revdate: 2020-01-29
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-ITname: CMIT
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
+:iTC-longname: Hardcopy Device
+:iTC-shortname: HCD-iTC
+:iTC-ITname: HIT
+:iTC-email: hcd-itc-mailing-list@gmail.com
+:iTC-website: https://hcd-itc.github.io/
+:iTC-GitHub: https://github.com/hcd-itc/repository/
 
 == {iTC-ITname} Membership
 [cols=".^2,.^2,.^2,.^2,.^1",options="header"]
@@ -22,33 +22,63 @@
 |Joined
 
 |Chair
-|Johann Sebastian Bach
-|Mr. Coffee
-|Vendor
-|1/1/2019
+|Alan Sukert
+|
+|Consultant
+|
 
 |Deputy Chair
+|Gerardo Colunga
+|HP
+|Vendor
 |
+
+|Member
+|Cory Clark
 |
 |Scheme
 |
 
-|Secretary
-|
-|
-|
-|
-
 |Member
-|
-|
+|Tom Benkart
+|ID  Technologies
 |Lab
 |
 
+|Member
+|Graydon Dodson
+|Lexmark
+|Vendor
+|
+
+|Member
+|Anantha Kandiah
+|Lab
+|Vendor
+|
+
+|Member
+|Joe McDaniels
+|Scheme
+|Vendor
+|
+
+|Member
+|Ryuichiro Ohya
+|Fuji Film Business Innovation
+|Vendor
+|
+
+|Member
+|Brian Volkoff
+|Ricoh
+|Vendor
+|
+
 |Non-Voting
-|
-|
-|
+|Kwangwoo Lee
+|HP
+|HCD-ITC Chair
 |
 
 
